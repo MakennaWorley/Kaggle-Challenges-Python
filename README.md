@@ -16,6 +16,5 @@ I have the Kaggle's Playground Season and Episode as the directory holding the n
 Example:
 ```
 ├── s5e12/                      # Kaggle Playground Season 5 Episode 12 code
-├── s5e11/                      # Kaggle Playground Season 5 Episode 11 code
 └── README.md                   # Project documentation
 ```

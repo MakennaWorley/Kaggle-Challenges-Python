@@ -23,4 +23,6 @@ Thumbs.db
 
 s5e12/playground-series-s5e12/*
 *.csv
+*/catboost_info
 compare.py
+template.ipynb
