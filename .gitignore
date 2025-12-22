@@ -22,7 +22,10 @@
 Thumbs.db
 
 s5e12/playground-series-s5e12/*
+ComputerPrices2025/computer-prices-2025/*
+
 *.csv
 */catboost_info
 compare.py
-template.ipynb
+template_cat_AUC.ipynb
+template_reg_RMSE.ipynb
